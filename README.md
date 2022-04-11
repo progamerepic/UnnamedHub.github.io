@@ -39,3 +39,15 @@ https://web.roblox.com/catalog/4506945409/Corrupt-Demonic-Greatsword
 ### Ckbackups Cop:
 
 https://web.roblox.com/catalog/4506945409/Corrupt-Demonic-Greatsword , https://web.roblox.com/catalog/5555712613/Type-49-Front
+
+## Reanimates
+
+### Simple
+
+No Hats
+### Simple For Hat Scripts 
+
+No Hats
+
+### Bullet
+https://web.roblox.com/catalog/63690008/Pal-Hair
