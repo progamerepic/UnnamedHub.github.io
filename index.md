@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Unnamed Hub Info
+Stuff About Unnamed Hub And btw Join it at dsc.gg/unnamedservices
 
-You can use the [editor on GitHub](https://github.com/progamerepic/UnnamedHub.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Hat Scripts
 
-### Markdown
+### Sniper:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://www.roblox.com/catalog/5063578607
 
-```markdown
-Syntax highlighted code block
+### Banisher Infinite:
 
-# Header 1
-## Header 2
-### Header 3
+https://www.roblox.com/catalog/5063578607
 
-- Bulleted
-- List
+### War Hammer:
 
-1. Numbered
-2. List
+https://web.roblox.com/catalog/5355426866/Demon-Lord-Axe
 
-**Bold** and _Italic_ and `Code` text
+### Trap Rifle:
 
-[Link](url) and ![Image](src)
-```
+https://web.roblox.com/catalog/5555712613/Type-49-Front
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Zenith Rifle:
 
-### Jekyll Themes
+https://web.roblox.com/catalog/5555712613/Type-49-Front
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/progamerepic/UnnamedHub.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Elio Blasio:
 
-### Support or Contact
+https://web.roblox.com/catalog/5555712613/Type-49-Front
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Ban Hammer:
+
+https://web.roblox.com/catalog/4739580137/Oversized-Hammer-of-the-Titans
