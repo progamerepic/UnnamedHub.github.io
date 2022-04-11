@@ -31,3 +31,11 @@ https://web.roblox.com/catalog/5555712613/Type-49-Front
 ### Ban Hammer:
 
 https://web.roblox.com/catalog/4739580137/Oversized-Hammer-of-the-Titans
+
+### Neptuinian V:
+
+https://web.roblox.com/catalog/4506945409/Corrupt-Demonic-Greatsword
+
+### Ckbackups Cop:
+
+https://web.roblox.com/catalog/4506945409/Corrupt-Demonic-Greatsword , https://web.roblox.com/catalog/5555712613/Type-49-Front
